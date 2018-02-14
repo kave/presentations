@@ -3,9 +3,7 @@
 ---
 
 ### Air Scoring Vanilla Benchmarks
-- Parsing JSON: `121.711 ms`
 - Validation: `22290.565 ms`
-- Combined: `22412.276 ms`
 
 ---
 
@@ -14,9 +12,7 @@
 ---
 
 ### Air Scoring Simple Deserializing Benchmarks
-- Parsing JSON: `415.074 ms`
 - Validation: `1261.304 ms`
-- Combined: `1667.378 ms`
 
 ---
 
